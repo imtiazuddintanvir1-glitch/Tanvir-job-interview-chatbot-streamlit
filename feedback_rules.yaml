@@ -1,0 +1,21 @@
+rules:
+  - keywords: ["強み", "strength"]
+    feedback:
+      ja: "　あなたの「強み」は とても だいじ です。その「強み」を つかった けいけんを はなすと、もっと よくなります。"
+      en: "Your strength matters. Share a concrete episode where you used it."
+  - keywords: ["弱点", "weakness"]
+    feedback:
+      ja: "　「弱点」を はなせるのは すばらしい です。今 している くふう を そえて はなすと よいです。"
+      en: "It's great to articulate a weakness. Add what you’re doing to improve."
+  - keywords: ["大切", "価値", "value"]
+    feedback:
+      ja: "　「大切にしていること」が あるのは すてき です。どうして それを 大切に しているか を そえると もっと 伝わります。"
+      en: "Wonderful to have clear values. Explain the why to make it convincing."
+  - keywords: ["入社", "joined", "company"]
+    feedback:
+      ja: "　「やりたいこと」が はっきり しています。会社の仕事 と つなげる と さらに よくなります。"
+      en: "Your motivation is clear. Tie it directly to the company’s work."
+default:
+  feedback:
+    ja: "　あなたの かんがえ は おもしろいです。くわしい 例 を そえる と もっと わかりやすい です。"
+    en: "Your idea is interesting. Add concrete details to make it clearer."
